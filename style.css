@@ -1,0 +1,49 @@
+#logo > img{
+	background-color:white;
+	height: 80px;
+	width: 150px;
+}
+
+#main-title {
+	background-color: white;
+}
+
+#dropdown-menu {
+	background-color: white;
+}
+
+#top-div {
+	height: 100px;
+}
+
+#top-div * .col-sm-4 {
+	height: 100px;
+}
+#main-title {
+position:absolute;
+left:26%;
+}
+h2 {
+font-weight:bold;
+text-decoration:underline;
+}
+h3 {
+	 font-weight:bold;
+	 
+}
+#overalls {
+	 font-family: "Comic Sans MS", cursive, sans-serif;
+}	
+
+.navbar-custom {
+    color: #07549b;
+    background-color: #46a0f4;
+}
+.navbar-custom li a{
+		color:#ffffff
+}
+#navigation a:hover, a:active {
+    display: block;
+    background-color: #00376b;
+}
+
