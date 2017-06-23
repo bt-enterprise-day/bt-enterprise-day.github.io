@@ -5,11 +5,11 @@
 }
 
 #Text-All > h2 {
-	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-family:"Comic_Sans_MS";
 
 }
 #Text-All {
-	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-family:"Comic_Sans_MS";
 	text-align:justify;
 }
 h3 {
@@ -18,7 +18,7 @@ h3 {
 
 #logo > img{
 	height: 80px;
-	width: 150px;
+	width: 175px;
 }
 
 .navbar-custom {
@@ -29,6 +29,10 @@ h3 {
 .navbar-custom li a{
     color:#ffffff
 }
+@font-face {
+    font-family: 'Comic_Sans_MS';
+    src: url('Comic_Sans_MS.ttf');
+    }
 
 #navigation a:hover, a:active {
     display: block;
