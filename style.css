@@ -1,29 +1,18 @@
 #logo > img{
-	background-color:white;
 	height: 80px;
 	width: 150px;
 }
 
 #main-title {
-	background-color: white;
+	position:absolute;
+	left:26%;
+	line-height:1.5;
+	
 }
-
-#dropdown-menu {
-	background-color: white;
+#Text-All {
+	 font-family: "Comic Sans MS", cursive, sans-serif;
 }
-
-#top-div {
-	height: 100px;
-}
-
-#top-div * .col-sm-4 {
-	height: 100px;
-}
-#main-title {
-position:absolute;
-left:26%;
-}
-h2 {
+#Text-All > h2 {
 font-weight:bold;
 text-decoration:underline;
 }
@@ -31,9 +20,10 @@ h3 {
 	 font-weight:bold;
 	 
 }
-#overalls {
-	 font-family: "Comic Sans MS", cursive, sans-serif;
-}	
+	
+
+
+
 
 .navbar-custom {
     color: #07549b;
