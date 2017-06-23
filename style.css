@@ -1,49 +1,47 @@
-#logo > img{
-	background-color:white;
-	height: 80px;
-	width: 150px;
-}
 
-#main-title {
-	background-color: white;
-}
 
-#dropdown-menu {
-	background-color: white;
-}
-
-#top-div {
+#top-div * .col-sm-1 {
 	height: 100px;
+	position:relative;
+
 }
 
-#top-div * .col-sm-4 {
-	height: 100px;
+#top-div{
+		background-color:;
 }
-#main-title {
-position:absolute;
-left:26%;
+#Text-All {
+	text-align:justify
 }
-h2 {
-font-weight:bold;
-text-decoration:underline;
+
+#main-title > h1 {
+	position:absolute;
+	left:26%;
+	line-height:1.5;
+	
+}
+
+.navbar-default{
+	border-color:#0c6dc9;
+}
+
+}
+#Text-All > h2 {
+	text-decoration:underline;
+	font-weight:bold;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+
+}
+#Text-All {
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	background-color:;
+
 }
 h3 {
-	 font-weight:bold;
-	 
-}
-#overalls {
-	 font-family: "Comic Sans MS", cursive, sans-serif;
-}	
+	font-weight:bold;
 
-.navbar-custom {
-    color: #07549b;
-    background-color: #46a0f4;
 }
-.navbar-custom li a{
-		color:#ffffff
-}
-#navigation a:hover, a:active {
-    display: block;
-    background-color: #00376b;
+#logo > img {
+	height: 80px;
+	width: 150px
 }
 
