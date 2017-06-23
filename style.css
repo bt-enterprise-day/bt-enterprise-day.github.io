@@ -34,7 +34,7 @@ h3 {
     src: url('Comic_Sans_MS.ttf');
     }
 
-#navigation a:hover, a:active {
+#navigation a:hover{
     display: block;
     background-color: #00376b;
 }
