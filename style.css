@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 #top-div * .col-sm-1 {
@@ -38,6 +39,34 @@
 }
 h3 {
 	font-weight:bold;
+=======
+#logo > img{
+	height: 80px;
+	width: 150px;
+}
+
+#main-title {
+	position:absolute;
+	left:26%;
+	line-height:1.5;
+	
+}
+#Text-All {
+	 font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#Text-All > h2 {
+font-weight:bold;
+text-decoration:underline;
+}
+h3 {
+	 font-weight:bold;
+	 
+}
+	
+
+
+
+>>>>>>> 06da40a316efb8ad1fb62c64428555a5e945247c
 
 }
 #logo > img {
