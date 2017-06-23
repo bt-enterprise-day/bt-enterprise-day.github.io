@@ -5,11 +5,11 @@
 }
 
 #Text-All > h2 {
-	font-family:"Comic_sans_ms", cursive, sans-serif;
+	font-family:"Comic_Sans_MS", cursive, sans-serif;
 
 }
 #Text-All {
-	font-family:"Comic_sans_ms", cursive, sans-serif;
+	font-family:"Comic_Sans_MS", cursive, sans-serif;
 	text-align:justify;
 }
 h3 {
@@ -30,7 +30,7 @@ h3 {
     color:#ffffff
 }
 @font-face {
-    font-family: 'Comic_sans_ms';
+    font-family: 'Comic_Sans_MS';
     src: url('Comic_Sans_MS.ttf');
     }
 
